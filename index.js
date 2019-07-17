@@ -68,14 +68,3 @@ function placeOrder(cardNumber) {
   }
   // write your code here
 }
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
